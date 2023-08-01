@@ -10,9 +10,11 @@
       <!-- Overlay -->
       <div class="bg-overlay"></div>
 
+      {{--
       <!-- Triangles -->
       <div class="bg-triangle bg-triangle-light bg-triangle-left bg-triangle-bottom"></div>
       <div class="bg-triangle bg-triangle-light bg-triangle-right bg-triangle-bottom"></div>
+      --}}
 
       <!-- Content -->
       <div class="container">
