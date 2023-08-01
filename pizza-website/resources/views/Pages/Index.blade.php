@@ -22,24 +22,24 @@
           <div class="col-12 col-md-8">
 
             <!-- Preheading -->
-            <p class="font-weight-medium text-center text-xs text-uppercase text-white text-muted" data-toggle="animation" data-animation="fadeUp" data-animation-order="0" data-animation-trigger="load">
+            {{--<p class="font-weight-medium text-center text-xs text-uppercase text-white text-muted" data-toggle="animation" data-animation="fadeUp" data-animation-order="0" data-animation-trigger="load">
               by Simpleqode
-            </p>
+            </p>--}}
             
             <!-- Heading -->
             <h1 class="text-center text-white mb-4" data-toggle="animation" data-animation="fadeUp" data-animation-order="1" data-animation-trigger="load">
-              Where taste meets the myth
+              Taste The Perfection
             </h1>
 
             <!-- Subheading -->
             <p class="text-center text-white text-muted mb-5" data-toggle="animation" data-animation="fadeUp" data-animation-order="2" data-animation-trigger="load">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quos vitae commodi sit, voluptas sequi adipisci vero repellat molestiae.
+                Delicie-se com a magia de sabores irresistíveis em nossa pizzaria e restaurante, onde cada mordida é uma jornada gourmet para o paladar.
             </p>
 
             <!-- Button -->
             <div class="text-center">
               <a href="#reservation" class="btn btn-outline-primary text-white" data-toggle="animation" data-animation="fadeUp" data-animation-order="3" data-animation-trigger="load">
-                Make reservation
+                Fazer Reserva
               </a>
             </div>
 
