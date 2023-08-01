@@ -136,12 +136,12 @@
 
             <!-- Heading -->
             <h2 class="mb-4 text-center">
-              Our menu
+              Nosso Menu
             </h2>
 
             <!-- Subheading -->
             <p class="mb-5 text-center text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi asperiores beatae quae inventore, molestiae dolorum.
+                Uma sinfonia de sabores que agrada a todos os paladares, com opções que vão desde as pizzas clássicas e reconfortantes até a outras diversidades de gastronômias.
             </p>
 
           </div>
@@ -151,17 +151,32 @@
             
             <!-- Nav -->
             <nav class="nav nav-pills justify-content-center mb-6">
-              <a href="#menuOne" class="nav-link active" data-toggle="tab">
-                Pizzas
-              </a>
               <a href="#menuTwo" class="nav-link" data-toggle="tab">
-                Starters
+                Entradas
+              </a>
+              <a href="#menuOne" class="nav-link active" data-toggle="tab">
+                Pizzas Medias
+              </a>
+              <a href="#menuOne" class="nav-link" data-toggle="tab">
+                Pizzas Grandes
               </a>
               <a href="#menuThree" class="nav-link" data-toggle="tab">
-                Salads
+                Sobremesas
+              </a>
+              <a href="#menuOne" class="nav-link" data-toggle="tab">
+                Marriscos
+              </a>
+              <a href="#menuOne" class="nav-link" data-toggle="tab">
+                Carnes
+              </a>
+              <a href="#menuOne" class="nav-link" data-toggle="tab">
+                Frango
+              </a>
+              <a href="#menuOne" class="nav-link" data-toggle="tab">
+                Hamburguer
               </a>
               <a href="#menuFour" class="nav-link" data-toggle="tab">
-                Sandwiches
+                Bebidas
               </a>
             </nav>
 
@@ -403,7 +418,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/72.jpg" alt="..." class="img-cover">
+                          <img src="assets/a2.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -411,12 +426,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          White pizza
+                          Sopa
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce With Tomatoes, Mild Banana Pepper Rings & Black Olives.
+                            Nossa sopa é uma verdadeira carícia para a alma em dias frios ou sempre que você desejar um momento de puro prazer gastronômico. 
                         </p>
 
                       </div>
@@ -424,7 +439,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          100MT
                         </h5>
 
                       </div>
@@ -438,7 +453,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/71.jpg" alt="..." class="img-cover">
+                          <img src="assets/pao" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -446,12 +461,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Vegetable pizza
+                          Pao de Alho
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce, Tomatoes, Cauliflower & Broccoli.
+                            O nosso Pão de Alho é uma verdadeira obra-prima culinária que vai encantar os seus sentidos. 
                         </p>
 
                       </div>
@@ -459,7 +474,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          150MT
                         </h5>
 
                       </div>
