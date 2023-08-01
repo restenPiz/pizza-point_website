@@ -67,7 +67,7 @@
                 </span>
               </a>
             </li>
-            <li class="nav-item">
+            {{--<li class="nav-item">
               <a href="#" class="nav-link">
                 <i class="fab fa-twitter"></i> 
                 <span class="d-xl-none ml-2">
@@ -82,7 +82,7 @@
                   Instagram
                 </span>
               </a>
-            </li>
+            </li>--}}
           </ul>
 
           <!-- Links -->

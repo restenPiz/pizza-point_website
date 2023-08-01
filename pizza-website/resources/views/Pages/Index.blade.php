@@ -60,7 +60,8 @@
             
             <!-- Image -->
             <div class="img-effect img-effect-solid mb-5 mb-md-0">
-              <img src="assets/img/68.jpg" class="img-fluid" alt="...">
+              {{--<img src="assets/img/68.jpg" class="img-fluid" alt="...">--}}
+              <img src="assets/a1.jpg" class="img-fluid" alt="...">
             </div>
 
           </div>
@@ -68,12 +69,12 @@
 
             <!-- Heading -->
             <h2 class="mb-4">
-              High quality ingredients for the great tasting pizza
+                Ingredientes de alta qualidade para a deliciosa pizza
             </h2>
 
             <!-- Content -->
             <p class="text-muted mb-0">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, maiores, aperiam. Excepturi assumenda non quasi ipsa quidem harum debitis aut alias dicta. Laudantium reprehenderit ea, suscipit nulla deleniti excepturi repudiandae!
+                uma explosão de sabores artesanais que vão te transportar diretamente para a Itália, onde a tradição encontra a inovação gastronômica em cada pedaço.
             </p>
             
           </div>
@@ -101,17 +102,17 @@
 
             <!-- Heading -->
             <h2 class="mb-4">
-              Taste the difference at Incline's pizzeria 
+                Prove a diferença no Pizza Point
             </h2>
 
             <!-- Content -->
             <p class="text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima tenetur, non ea, nobis minus distinctio eveniet libero fugiat, ullam deserunt dolores exercitationem quae eum? Alias quaerat rerum, quasi nulla odit?
+                descubra a verdadeira paixão pela culinária, onde cada detalhe é cuidadosamente preparado para proporcionar uma experiência única e inesquecível para você e sua família.
             </p>
 
             <!-- Button -->
             <a href="contact.html" class="btn btn-outline-primary">
-              Contact us
+              Contacte-nos
             </a>
             
           </div>
