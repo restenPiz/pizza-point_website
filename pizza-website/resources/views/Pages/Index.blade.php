@@ -746,7 +746,7 @@
                 
               </div>
 
-              {{--Inicio da outra seccao do menu--}}
+              {{--Inicio da outra seccao do menu de Sobremesas--}}
               <div class="tab-pane fade" id="menuFour">
 
                 <div class="row">
