@@ -163,19 +163,19 @@
               <a href="#menuFour" class="nav-link" data-toggle="tab">
                 Sobremesas
               </a>
-              <a href="#menuOne" class="nav-link" data-toggle="tab">
+              <a href="#menuFive" class="nav-link" data-toggle="tab">
                 Marriscos
               </a>
-              <a href="#menuOne" class="nav-link" data-toggle="tab">
+              <a href="#menuSix" class="nav-link" data-toggle="tab">
                 Carnes
               </a>
-              <a href="#menuOne" class="nav-link" data-toggle="tab">
+              <a href="#menuSeven" class="nav-link" data-toggle="tab">
                 Frango
               </a>
-              <a href="#menuOne" class="nav-link" data-toggle="tab">
+              <a href="#menuEight" class="nav-link" data-toggle="tab">
                 Hamburguer
               </a>
-              <a href="#menuFour" class="nav-link" data-toggle="tab">
+              <a href="#menuNine" class="nav-link" data-toggle="tab">
                 Bebidas
               </a>
             </nav>
