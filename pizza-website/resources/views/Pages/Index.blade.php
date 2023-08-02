@@ -160,7 +160,7 @@
               <a href="#menuThree" class="nav-link" data-toggle="tab">
                 Pizzas Grandes
               </a>
-              <a href="#menuThree" class="nav-link" data-toggle="tab">
+              <a href="#menuFour" class="nav-link" data-toggle="tab">
                 Sobremesas
               </a>
               <a href="#menuOne" class="nav-link" data-toggle="tab">
@@ -198,7 +198,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/70.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-margarita.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -206,7 +206,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Deluxe pizza
+                          Pizza de Margarita
                         </h5>
 
                         <!-- Text -->
@@ -219,7 +219,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          400MT
                         </h5>
 
                       </div>
@@ -233,7 +233,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/71.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-fiambre.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -241,7 +241,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Vegetable pizza
+                          Pizza de Fiambre
                         </h5>
 
                         <!-- Text -->
@@ -254,7 +254,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          650MT
                         </h5>
 
                       </div>
@@ -268,7 +268,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/72.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-chourico.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -276,7 +276,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          White pizza
+                          Pizza de Chouriço 
                         </h5>
 
                         <!-- Text -->
@@ -289,7 +289,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          600MT
                         </h5>
 
                       </div>
@@ -306,7 +306,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/73.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-carne.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -314,7 +314,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Meat pizza
+                          Pizza de Carne
                         </h5>
 
                         <!-- Text -->
@@ -327,7 +327,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $16
+                          450MT
                         </h5>
 
                       </div>
@@ -341,7 +341,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/74.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-camarao.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -349,7 +349,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Buffalo chicken pizza
+                          Pizza de Camarão
                         </h5>
 
                         <!-- Text -->
@@ -362,7 +362,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          600MT
                         </h5>
 
                       </div>
@@ -376,7 +376,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/75.jpg" alt="..." class="img-cover">
+                          <img src="assets/m-atum.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -384,7 +384,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Mediterranean pizza
+                          Pizza de Atum
                         </h5>
 
                         <!-- Text -->
@@ -397,7 +397,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          550MT
                         </h5>
 
                       </div>
@@ -745,6 +745,8 @@
                 </div> <!-- / .row -->
                 
               </div>
+
+              {{--Inicio da outra seccao do menu--}}
               <div class="tab-pane fade" id="menuFour">
 
                 <div class="row">
