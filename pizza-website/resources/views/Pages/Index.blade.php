@@ -4,7 +4,7 @@
     <section class="section section-top section-full">
 
       <!-- Cover -->
-      <div class="bg-cover" style="background-image: url(assets/img/67.jpg)">
+      <div class="bg-cover" style="background-image: url(assets/ba.png)">
       </div>
 
       <!-- Overlay -->
@@ -206,11 +206,6 @@
                           Pizza de Margarita
                         </h5>
 
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Green Peppers, Onions & Mushrooms.
-                        </p>
-
                       </div>
                       <div class="col-auto">
                         
@@ -241,11 +236,6 @@
                           Pizza de Fiambre
                         </h5>
 
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce, Tomatoes, Cauliflower & Broccoli.
-                        </p>
-
                       </div>
                       <div class="col-auto">
                         
@@ -275,11 +265,6 @@
                         <h5>
                           Pizza de Chouriço 
                         </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce With Tomatoes, Mild Banana Pepper Rings & Black Olives.
-                        </p>
 
                       </div>
                       <div class="col-auto">
@@ -314,11 +299,6 @@
                           Pizza de Carne
                         </h5>
 
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Bacon, Ham & Beef.
-                        </p>
-
                       </div>
                       <div class="col-auto">
                         
@@ -349,11 +329,6 @@
                           Pizza de Camarão
                         </h5>
 
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Hot Sauce & White Meat Chicken.
-                        </p>
-
                       </div>
                       <div class="col-auto">
                         
@@ -383,11 +358,6 @@
                         <h5>
                           Pizza de Atum
                         </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Fresh Spinach, Feta And Provolone Cheese, Roasted Red Peppers.
-                        </p>
 
                       </div>
                       <div class="col-auto">
@@ -1537,12 +1507,12 @@
 
             <!-- Heading -->
             <h2 class="mb-4 text-center">
-              Make online reservation
+              Faça reserva online
             </h2>
 
             <!-- Subheading -->
             <p class="mb-5 text-center text-muted">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam illo praesentium sequi in cum, beatae maiores quae qui.
+              Faça sua reserva de forma online, sem precisar sair de casa. A reserva da mesa deve ser confirmada ate 1h antes da hora prevista na reserva!
             </p>
 
           </div>
@@ -1556,17 +1526,17 @@
                 <div class="col-12 col-md-6">
                   
                   <div class="form-group">
-                    <label>Full name:</label>
+                    <label>Nome Completo:</label>
                     <input type="text" class="form-control">
                   </div>
 
                   <div class="form-group">
-                    <label>Phone number:</label>
+                    <label>Numero de Telefone:</label>
                     <input type="text" class="form-control">
                   </div>
 
                   <div class="form-group mb-md-0">
-                    <label>Email address:</label>
+                    <label>Endereço de Email:</label>
                     <input type="email" class="form-control">
                   </div>
 
@@ -1574,23 +1544,23 @@
                 <div class="col-12 col-md-6">
                   
                   <div class="form-group">
-                    <label>Number of guests:</label>
+                    <label>Numero de Integrantes:</label>
                     <select class="form-control">
-                      <option value="1" selected>1 person</option>
-                      <option value="2">2 persons</option>
-                      <option value="3">3 persons</option>
-                      <option value="4">4 persons</option>
-                      <option value="5">5 persons</option>
+                      <option value="1" selected>1 pessoa</option>
+                      <option value="2">2 pessoas</option>
+                      <option value="3">3 pessoas</option>
+                      <option value="4">4 pessoas</option>
+                      <option value="5">5 pessoas</option>
                     </select>
                   </div>
 
                   <div class="form-group">
-                    <label>Date:</label>
+                    <label>Data:</label>
                     <input type="date" class="form-control">
                   </div>
 
                   <div class="form-group mb-0">
-                    <label>Time:</label>
+                    <label>Horario:</label>
                     <input type="time" class="form-control">
                   </div>
 
@@ -1601,7 +1571,7 @@
                   
                   <!-- Submit -->
                   <button type="submit" class="btn btn-outline-primary">
-                    Reserve a table
+                    Reservar uma mesa
                   </button>
 
                 </div>
@@ -1636,14 +1606,14 @@
             
             <!-- Heading -->
             <h3 class="text-center text-white mb-5">
-              Sign up to our newsletter
+              Inscreva-se no nosso boletim
             </h3>
 
             <!-- Form -->
             <form class="form-mailchimp form-light validate" action="http://simpleqode.us15.list-manage.com/subscribe/post-json?u=507744bbfd1cc2879036c7780&amp;id=4523d25e1b&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
               <div id="mc_embed_signup_scroll" class="form-row justify-content-center">
                 <div class="input-group col-md-4 mb-2 mb-md-0">
-                  <input type="email" value="" name="EMAIL" class="required email form-control order-1" id="mce-EMAIL" placeholder="Email address">
+                  <input type="email" value="" name="EMAIL" class="required email form-control order-1" id="mce-EMAIL" placeholder="Endereço de email">
                   <div class="input-group-append order-0">
                     <div class="input-group-text">
                       <svg class="icon icon-envelope input-group-icon icon-offset" viewBox="0 0 106 106" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -1664,7 +1634,7 @@
                 </div>
                 <div class="clear col-md-auto">
                   <button type="submit" class="btn btn-outline-primary text-white" id="mc-embedded-subscribe">
-                    Sign up
+                    Enviar
                   </button>
                 </div>
               </div>
