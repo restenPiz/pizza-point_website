@@ -980,6 +980,239 @@
                 
               </div>
 
+              {{--Inicio da seccao de menu contendo as carne--}}
+              <div class="tab-pane fade" id="menuFive">
+
+                <div class="row">
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/s-salada.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Salada de Frutas
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Hot Sauce & White Meat Chicken.
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          200MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/s-sorvete.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Sorvete
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Homemade White Sauce, Tomatoes, Cauliflower & Broccoli.
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          200MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/s-mouse.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Mouse de Chocolate
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Pepperoni, Sausage, Bacon, Ham & Beef.
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          200MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                </div> <!-- / .row -->
+                
+              </div>
+
+              {{--Inicio da seccao contendo os marrisco--}}
+              <div class="tab-pane fade" id="menuSix">
+
+                <div class="row">
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/c-bife.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Bife com cogumelos
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Batata corada, arroz e salada
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          650MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/c-natas.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Bife com natas
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Com arroz manteiga e batata frita
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          850MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/c-espetada.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Espetada de frango
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                          Arroz de vegetais, batata frita e salada
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          750MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                </div> <!-- / .row -->
+                
+              </div>
 
               {{--Fim da seccao de menu--}}
 
