@@ -170,12 +170,9 @@
                 Carnes
               </a>
               <a href="#menuSeven" class="nav-link" data-toggle="tab">
-                Frango
-              </a>
-              <a href="#menuEight" class="nav-link" data-toggle="tab">
                 Hamburguer
               </a>
-              <a href="#menuNine" class="nav-link" data-toggle="tab">
+              <a href="#menuEight" class="nav-link" data-toggle="tab">
                 Bebidas
               </a>
             </nav>
