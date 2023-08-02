@@ -758,7 +758,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/74.jpg" alt="..." class="img-cover">
+                          <img src="assets/s-salada.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -766,7 +766,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Buffalo chicken pizza
+                          Salada de Frutas
                         </h5>
 
                         <!-- Text -->
@@ -779,7 +779,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          200MT
                         </h5>
 
                       </div>
@@ -793,7 +793,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/71.jpg" alt="..." class="img-cover">
+                          <img src="assets/s-sorvete.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -801,7 +801,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Vegetable pizza
+                          Sorvete
                         </h5>
 
                         <!-- Text -->
@@ -814,7 +814,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          200MT
                         </h5>
 
                       </div>
@@ -828,7 +828,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/73.jpg" alt="..." class="img-cover">
+                          <img src="assets/s-mouse.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -836,7 +836,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Meat pizza
+                          Mouse de Chocolate
                         </h5>
 
                         <!-- Text -->
@@ -849,7 +849,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $16
+                          200MT
                         </h5>
 
                       </div>
@@ -858,112 +858,7 @@
                     <hr class="d-md-none">
 
                   </div>
-                  <div class="col-12 col-md-6">
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/72.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          White pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce With Tomatoes, Mild Banana Pepper Rings & Black Olives.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $15
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                    <hr>
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/70.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Deluxe pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Green Peppers, Onions & Mushrooms.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $15
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                    <hr>
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/75.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Mediterranean pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Fresh Spinach, Feta And Provolone Cheese, Roasted Red Peppers.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $15
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                  </div>
+                  
                 </div> <!-- / .row -->
                 
               </div>
