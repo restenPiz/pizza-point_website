@@ -1211,6 +1211,111 @@
                 
               </div>
 
+              {{--Inicio da seccao de menu de hamburguer--}}
+              <div class="tab-pane fade" id="menuSeven">
+
+                <div class="row">
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/hamburguer.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Hamburguer Simples
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          200MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/hamburguer-completo.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Hamburguer Completo
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          250MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/exclusive-burguer.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Exclusivo Burguer
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          380MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                </div> <!-- / .row -->
+                
+              </div>
+
+              {{--Inicio da seccao de Bebidas--}}
+
+
               {{--Fim da seccao de menu--}}
 
             </div>
