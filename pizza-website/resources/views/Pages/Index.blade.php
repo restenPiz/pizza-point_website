@@ -1314,7 +1314,204 @@
               </div>
 
               {{--Inicio da seccao de Bebidas--}}
+              <div class="tab-pane fade" id="menuEight">
 
+                <div class="row">
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/agua-g.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Agua 0,5L
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          30MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/agua-p.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Agua 1,5L
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          60MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/cafe.jfif" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Cafe
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          100MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/milk.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Milkshake
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          220MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/refresco.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Refresco em lata
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          60MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr>
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/sumo.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Sumo natural
+                        </h5>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          150MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+
+
+                </div> <!-- / .row -->
+                
+
+              </div>
 
               {{--Fim da seccao de menu--}}
 
