@@ -157,7 +157,7 @@
               <a href="#menuOne" class="nav-link active" data-toggle="tab">
                 Pizzas Medias
               </a>
-              <a href="#menuOne" class="nav-link" data-toggle="tab">
+              <a href="#menuThree" class="nav-link" data-toggle="tab">
                 Pizzas Grandes
               </a>
               <a href="#menuThree" class="nav-link" data-toggle="tab">
@@ -407,6 +407,8 @@
                 </div> <!-- / .row -->
                 
               </div>
+
+              {{--Inicio do menu de Entradas--}}
               <div class="tab-pane fade" id="menuTwo">
 
                 <div class="row">
@@ -453,7 +455,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/pao" alt="..." class="img-cover">
+                          <img src="assets/pao.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -488,7 +490,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/70.jpg" alt="..." class="img-cover">
+                          <img src="assets/mini.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -496,12 +498,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Deluxe pizza
+                          3 Mini Pizzas
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Green Peppers, Onions & Mushrooms.
+                            Cada uma delas é cuidadosamente preparada com uma massa fina e crocante
                         </p>
 
                       </div>
@@ -509,7 +511,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          150MT
                         </h5>
 
                       </div>
@@ -518,115 +520,11 @@
                     <hr class="d-md-none">
 
                   </div>
-                  <div class="col-12 col-md-6">
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/74.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Buffalo chicken pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Hot Sauce & White Meat Chicken.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $12
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                    <hr>
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/75.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Mediterranean pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Fresh Spinach, Feta And Provolone Cheese, Roasted Red Peppers.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $15
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                    <hr>
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
-                          <img src="assets/img/73.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Meat pizza
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Bacon, Ham & Beef.
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          $16
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                  </div>
                 </div> <!-- / .row -->
                 
               </div>
+
+              {{--Inicio da nova seccao de comidas--}}
               <div class="tab-pane fade" id="menuThree">
 
                 <div class="row">
@@ -634,7 +532,7 @@
 
                     <!-- Item -->
                     <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
+                      <div class="col-4 col-lg-3"> 
                         
                         <!-- Image -->
                         <div class="img-square">
