@@ -536,7 +536,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/73.jpg" alt="..." class="img-cover">
+                          <img src="assets/quatro.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -549,7 +549,7 @@
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Bacon, Ham & Beef.
+                          Molho de tomate, Queijo mussarela, Fatias de presunto ou bacon.
                         </p>
 
                       </div>
@@ -557,7 +557,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $16
+                          650MT
                         </h5>
 
                       </div>
@@ -579,12 +579,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Buffalo chicken pizza
+                          Pizza de Fiambre
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Hot Sauce & White Meat Chicken.
+                          Frango Molho Picante e Carne Branca.
                         </p>
 
                       </div>
@@ -592,7 +592,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          750MT
                         </h5>
 
                       </div>
@@ -614,12 +614,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Mediterranean pizza
+                          Pizza de Margarita
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Fresh Spinach, Feta And Provolone Cheese, Roasted Red Peppers.
+                          Molho de tomate, Folhas de manjericão e Tomate.
                         </p>
 
                       </div>
@@ -627,7 +627,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          500MT
                         </h5>
 
                       </div>
@@ -652,12 +652,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Deluxe pizza
+                          Pizza de Carne
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Pepperoni, Sausage, Green Peppers, Onions & Mushrooms.
+                          Calabresa, Salsicha, Carne moida, Pimentão Verde, Cebola e Cogumelos.
                         </p>
 
                       </div>
@@ -665,7 +665,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          550MT
                         </h5>
 
                       </div>
@@ -679,7 +679,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/71.jpg" alt="..." class="img-cover">
+                          <img src="assets/camarao.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -687,12 +687,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Vegetable pizza
+                          Pizza de Camarao
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce, Tomatoes, Cauliflower & Broccoli.
+                          Molho branco caseiro, tomate, camarao, queijo, azeitonas e brócolis.
                         </p>
 
                       </div>
@@ -700,7 +700,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $12
+                          700MT
                         </h5>
 
                       </div>
@@ -714,7 +714,7 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/img/72.jpg" alt="..." class="img-cover">
+                          <img src="assets/pizzapoint.jpg" alt="..." class="img-cover">
                         </div>
 
                       </div>
@@ -722,12 +722,12 @@
                         
                         <!-- Heading -->
                         <h5>
-                          White pizza
+                          Pizza point
                         </h5>
 
                         <!-- Text -->
                         <p class="mb-0 text-sm text-muted">
-                          Homemade White Sauce With Tomatoes, Mild Banana Pepper Rings & Black Olives.
+                          Molho de tomate, azeitonas, queijo, carne moida
                         </p>
 
                       </div>
@@ -735,7 +735,7 @@
                         
                         <!-- Price -->
                         <h5 class="mb-0">
-                          $15
+                          700MT
                         </h5>
 
                       </div>
