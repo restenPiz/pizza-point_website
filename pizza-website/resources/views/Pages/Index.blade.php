@@ -544,7 +544,7 @@
                         
                         <!-- Heading -->
                         <h5>
-                          Meat pizza
+                          Pizza 4 Estações
                         </h5>
 
                         <!-- Text -->
