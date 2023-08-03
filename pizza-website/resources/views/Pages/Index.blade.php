@@ -422,41 +422,6 @@
                         
                         <!-- Image -->
                         <div class="img-square">
-                          <img src="assets/pao.jpg" alt="..." class="img-cover">
-                        </div>
-
-                      </div>
-                      <div class="col ml-n4">
-                        
-                        <!-- Heading -->
-                        <h5>
-                          Pao de Alho
-                        </h5>
-
-                        <!-- Text -->
-                        <p class="mb-0 text-sm text-muted">
-                            O nosso Pão de Alho é uma verdadeira obra-prima culinária que vai encantar os seus sentidos. 
-                        </p>
-
-                      </div>
-                      <div class="col-auto">
-                        
-                        <!-- Price -->
-                        <h5 class="mb-0">
-                          150MT
-                        </h5>
-
-                      </div>
-                    </div> <!-- / .row -->
-
-                    <hr>
-
-                    <!-- Item -->
-                    <div class="row align-items-center">
-                      <div class="col-4 col-lg-3">
-                        
-                        <!-- Image -->
-                        <div class="img-square">
                           <img src="assets/mini.jpg" alt="..." class="img-cover">
                         </div>
 
@@ -487,6 +452,48 @@
                     <hr class="d-md-none">
 
                   </div>
+
+                  {{--Inicio da outra coluna contendo os outros links do menu--}}
+
+                  <div class="col-12 col-md-6">
+
+                    <!-- Item -->
+                    <div class="row align-items-center">
+                      <div class="col-4 col-lg-3">
+                        
+                        <!-- Image -->
+                        <div class="img-square">
+                          <img src="assets/pao.jpg" alt="..." class="img-cover">
+                        </div>
+
+                      </div>
+                      <div class="col ml-n4">
+                        
+                        <!-- Heading -->
+                        <h5>
+                          Pao de Alho
+                        </h5>
+
+                        <!-- Text -->
+                        <p class="mb-0 text-sm text-muted">
+                            O nosso Pão de Alho é uma verdadeira obra-prima culinária que vai encantar os seus sentidos. 
+                        </p>
+
+                      </div>
+                      <div class="col-auto">
+                        
+                        <!-- Price -->
+                        <h5 class="mb-0">
+                          150MT
+                        </h5>
+
+                      </div>
+                    </div> <!-- / .row -->
+
+                    <hr class="d-md-none">
+
+                  </div>
+
                 </div> <!-- / .row -->
                 
               </div>
@@ -787,7 +794,13 @@
                       </div>
                     </div> <!-- / .row -->
 
-                    <hr>
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                  {{--Inicio da outra coluna--}}
+
+                  <div class="col-12 col-md-6">
 
                     <!-- Item -->
                     <div class="row align-items-center">
@@ -825,7 +838,7 @@
                     <hr class="d-md-none">
 
                   </div>
-                  
+
                 </div> <!-- / .row -->
                 
               </div>
@@ -904,7 +917,13 @@
                       </div>
                     </div> <!-- / .row -->
 
-                    <hr>
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                  {{--Inicio da outra coluna --}}
+
+                  <div class="col-12 col-md-6">
 
                     <!-- Item -->
                     <div class="row align-items-center">
@@ -942,7 +961,7 @@
                     <hr class="d-md-none">
 
                   </div>
-                  
+
                 </div> <!-- / .row -->
                 
               </div>
@@ -1021,7 +1040,14 @@
                       </div>
                     </div> <!-- / .row -->
 
-                    <hr>
+
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                  {{--Inicio da outra seccao--}}
+
+                  <div class="col-12 col-md-6">
 
                     <!-- Item -->
                     <div class="row align-items-center">
@@ -1060,6 +1086,7 @@
 
                   </div>
                   
+
                 </div> <!-- / .row -->
                 
               </div>
@@ -1138,7 +1165,13 @@
                       </div>
                     </div> <!-- / .row -->
 
-                    <hr>
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                  {{--Inicio da outra coluna--}}
+
+                  <div class="col-12 col-md-6">
 
                     <!-- Item -->
                     <div class="row align-items-center">
@@ -1176,7 +1209,7 @@
                     <hr class="d-md-none">
 
                   </div>
-                  
+
                 </div> <!-- / .row -->
                 
               </div>
@@ -1245,7 +1278,13 @@
                       </div>
                     </div> <!-- / .row -->
 
-                    <hr>
+                    <hr class="d-md-none">
+
+                  </div>
+                  
+                  {{--Inicio da outra seccao--}}
+
+                  <div class="col-12 col-md-6">
 
                     <!-- Item -->
                     <div class="row align-items-center">
@@ -1279,6 +1318,7 @@
 
                   </div>
                   
+
                 </div> <!-- / .row -->
                 
               </div>
