@@ -51,40 +51,6 @@
   
         <!-- Collapse -->
         <div class="collapse navbar-collapse" id="navbarCollapse">
-
-          <!-- Social -->
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item-divider">
-              <span class="nav-link">
-                <span></span>
-              </span>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link">
-                <i class="fab fa-facebook"></i> 
-                <span class="d-xl-none ml-2">
-                  facebook
-                </span>
-              </a>
-            </li>
-            {{--<li class="nav-item">
-              <a href="#" class="nav-link">
-                <i class="fab fa-twitter"></i> 
-                <span class="d-xl-none ml-2">
-                  Twitter
-                </span>
-              </a>
-            </li>
-            <li class="nav-item">
-              <a href="#" class="nav-link">
-                <i class="fab fa-instagram"></i> 
-                <span class="d-xl-none ml-2">
-                  Instagram
-                </span>
-              </a>
-            </li>--}}
-          </ul>
-
           <!-- Links -->
           <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
@@ -132,7 +98,7 @@
 
     {{--Inicio do footer--}}
 
-    <footer class="section bg-dark">
+    <footer class="section bg-dark" style="margin-top:-21rem">
 
         <!-- Triangles -->
         <div class="bg-triangle bg-triangle-light bg-triangle-bottom bg-triangle-left"></div>
@@ -146,36 +112,10 @@
               <!-- Brand -->
               <p>
                 <a href="#" class="footer-brand text-white">
-                  <svg class="footer-brand-svg" viewBox="0 0 235 80" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                    <path d="M0 0 L 20 10 L 0 20 Z" class="text-primary" fill="currentColor"></path>
-                    <path d="M0 30 L 20 40 L 0 50 Z M20 45 L 0 55 L 20 65 Z M0 60 L 20 70 L 0 80 Z" fill="currentColor"></path>
-                    <text x="40" y="70" font-family="Arial, sans-serif" font-size="60" font-weight="bold" letter-spacing="-.025em" fill="currentColor">incline.</text>
-                  </svg>
+                  <img src="./assets/pizza-logo.png" class="" width="100">
                 </a>
               </p>
           
-            </div>
-            <div class="col-md">
-          
-              <!-- Links -->
-              <ul class="list-unstyled list-inline text-md-right">
-                <li class="list-inline-item mr-2">
-                  <a href="#" class="text-white">
-                    Terms and conditions
-                  </a>
-                </li>
-                <li class="list-inline-item mr-2">
-                  <a href="#" class="text-white">
-                    Privacy policy
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="#" class="text-white">
-                    Contact us
-                  </a>
-                </li>
-              </ul>
-  
             </div>
           </div> <!-- / .row -->
           <div class="row align-items-center">
@@ -184,7 +124,7 @@
               <!-- Copyright -->
               <p class="text-white text-muted">
                 <small>
-                  &copy; Copyright <span class="current-year"></span> Simpleqode. All rights reserved.
+                  &copy; Copyright <span class="current-year"></span>. Todos direitos reservados pela <a href="https://bytebraine.com/">ByteBrain</a>.
                 </small>
               </p>
   
@@ -194,8 +134,8 @@
               <!-- Social links -->
               <ul class="list-inline list-unstyled text-md-right">
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-github"></i>
+                  <a href="https://www.facebook.com/profile.php?id=100064269152195">
+                    <i class="fab fa-facebook"></i>
                   </a>
                 </li>
                 <li class="list-inline-item ml-3">

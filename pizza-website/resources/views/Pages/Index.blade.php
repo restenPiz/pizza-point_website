@@ -1769,12 +1769,12 @@
 
             <!-- Heading -->
             <h2 class="text-center mb-4">
-              Find us on the map
+              Encontre-nos no mapa
             </h2>
 
             <!-- Subheading -->
             <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum repellendus dolores, error.
+              Estamos aqui para atendê-lo! Entre em contato conosco para esclarecer dúvidas, fornecer feedback ou simplesmente dizer olá. Sua opinião é valiosa para nós!
             </p>
           
           </div>
@@ -1792,11 +1792,11 @@
               <div class="col ml-n4">
                 
                 <h5>
-                  Address:
+                  Endereço:
                 </h5>
 
                 <p class="mb-0 text-sm text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                    Maquinino, Beira, Mozambique
                 </p>
 
               </div>
@@ -1815,12 +1815,12 @@
               <div class="col ml-n4">
                 
                 <h5>
-                  Work hours:
+                  Horario de Trabalho
                 </h5>
 
                 <p class="mb-0 text-sm text-muted">
-                  Mon. - Thu. / 08:00AM - 09:00PM <br>
-                  Fri. - Sun. / 08:00AM - 11:00PM
+                  Seg. - Sexta. / 08:00 - 20:00 <br>
+                  Sabado. - Domingo. / 10:00 - 20:00
                 </p>
 
               </div>
@@ -1839,15 +1839,15 @@
               <div class="col ml-n4">
                 
                 <h5>
-                  Contact info:
+                  Informações de contato:
                 </h5>
 
                 <p class="mb-0 text-sm text-muted">
-                  Phone: <a href="tel:12345678900" class="text-muted">
-                    +1(234)567-89-00
+                  Telefone: <a href="tel:12345678900" class="text-muted">
+                    +(258) 851350705
                   </a> <br>
                   Email: <a href="mailto:admin@domain.com" class="text-muted">
-                    admin@domain.com
+                    contacto@pizzapoint.com
                   </a>
                 </p>
 
@@ -1860,8 +1860,10 @@
           <div class="col-12">
 
             <!-- Map -->
-            <div class="map">
-              <div class="map-container" data-markers="[[34.0872254,-118.4046315]]" data-zoom="8"></div>
+            <div class="">
+              <div class="map" data-markers="[[34.0872254,-118.4046315]]" data-zoom="8">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.2120429766946!2d34.83728387522443!3d-19.83097898153535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1f2a6bc676b6fc57%3A0x46ceaed97c8ec05a!2sPizza%20Point!5e0!3m2!1spt-PT!2sfr!4v1691085267797!5m2!1spt-PT!2sfr" width="1150" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
             </div>
             
           </div>
