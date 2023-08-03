@@ -218,7 +218,6 @@
   
       <!-- JAVASCRIPT
       ================================================== -->
-      <!-- Global JS -->
       <script src="assets/libs/jquery/dist/jquery.min.js"></script>
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCnKt8_N4-FKOnhI_pSaDL7g_g-XI1-R9E"></script>
   
@@ -236,7 +235,6 @@
       <!-- Theme JS -->
       <script src="assets/js/theme.min.js"></script>
   
-    </body>
   
-  <!-- Mirrored from yevgenysim-turkey.github.io/incline/restaurant.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 27 Jun 2023 12:21:05 GMT -->
+    </body>
   </html>

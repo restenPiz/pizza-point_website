@@ -1664,12 +1664,12 @@
 
             <!-- Heading -->
             <h2 class="text-center mb-4">
-              Inside the house
+              Galeria
             </h2>
 
             <!-- Subheading -->
             <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo officiis odio repudiandae illum molestiae.
+              Explore e encante-se com uma coleção cativante de imagens que capturam a essência do nosso universo.
             </p>
 
           </div>
@@ -1682,31 +1682,31 @@
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+                <img src="assets/g6.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+                <img src="assets/g2.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+                <img src="assets/g4.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+                <img src="assets/g1.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item">
                 
                 <!-- Image -->
-                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
+                <img src="assets/g7.jpg" alt="..." class="img-fluid">
 
               </div>
             </div> <!-- / .slider -->
@@ -1721,31 +1721,31 @@
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+                <img src="assets/g6.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+                <img src="assets/g2.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+                <img src="assets/g4.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+                <img src="assets/g1.jpg" alt="..." class="img-fluid">
 
               </div>
               <div class="slider-item col-6 col-md-3">
                 
                 <!-- Image -->
-                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
+                <img src="assets/g7.jpg" alt="..." class="img-fluid">
 
               </div>
             </div> <!-- / .slider -->
