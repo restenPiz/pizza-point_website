@@ -1646,239 +1646,117 @@
 
     </section>
 
-    <!-- TESTIMONIALS
-    ================================================== -->
-    <section class="section">
-      
-      <!-- Content -->
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-8 col-lg-6">
-            
-            <!-- Heading -->
-            <h2 class="text-center mb-4">
-              Client testimonials
-            </h2>
 
-            <!-- Subheading -->
-            <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam illo ut repellat tempora sequi vitae provident optio pariatur. 
-            </p>
+    {{--Inicio da parte contendo a galeria--}}
 
-          </div>
-        </div>
-        <div class="row">
-          <div class="col">
-            
-            <!-- Slider -->
-            <div class="testimonial-slider">
 
-              <!-- Item -->
-              <div class="testimonial-slider-item">
-                <div class="testimonial-slider-item-inner">
-                
-                  <!-- Quote -->
-                  <div class="quote quote-sm">
-                    <blockquote class="quote-blockquote">
-                      <p class="quote-blockquote-content">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam exercitationem nobis incidunt alias ipsa quis, rerum doloribus nostrum, recusandae. Laboriosam, quasi, dolores! Itaque nihil quae, omnis, minus nisi iste iure.
-                      </p>
-                      <footer class="quote-blockquote-footer">
-                        <div class="avatar avatar-lg mr-3">
-                          <img src="assets/img/16.jpg" alt="..." class="img-cover rounded-circle">
-                        </div>
-                        <span>
-                          John Doe, <span class="text-zigzag">Chicago</span>
-                        </span>
-                      </footer>
-                    </blockquote>
-                  </div>
-
-                </div>
-              </div>
-
-              <!-- Item -->
-              <div class="testimonial-slider-item">
-                <div class="testimonial-slider-item-inner">
-                
-                  <!-- Quote -->
-                  <div class="quote quote-sm">
-                    <blockquote class="quote-blockquote">
-                      <p class="quote-blockquote-content">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam exercitationem nobis incidunt alias ipsa quis, rerum doloribus nostrum, recusandae. Laboriosam, quasi, dolores! Itaque nihil quae, omnis, minus nisi iste iure.
-                      </p>
-                      <footer class="quote-blockquote-footer">
-                        <div class="avatar avatar-lg mr-3">
-                          <img src="assets/img/18.jpg" alt="..." class="img-cover rounded-circle">
-                        </div>
-                        <span>
-                          Anna Doe, <span class="text-zigzag">San Francisco</span>
-                        </span>
-                      </footer>
-                    </blockquote>
-                  </div>
-
-                </div>
-              </div>
-
-              <!-- Item -->
-              <div class="testimonial-slider-item">
-                <div class="testimonial-slider-item-inner">
-                
-                  <!-- Quote -->
-                  <div class="quote quote-sm">
-                    <blockquote class="quote-blockquote">
-                      <p class="quote-blockquote-content">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam exercitationem nobis incidunt alias ipsa quis, rerum doloribus nostrum, recusandae. Laboriosam, quasi, dolores! Itaque nihil quae, omnis, minus nisi iste iure.
-                      </p>
-                      <footer class="quote-blockquote-footer">
-                        <div class="avatar avatar-lg mr-3">
-                          <img src="assets/img/17.jpg" alt="..." class="img-cover rounded-circle">
-                        </div>
-                        <span>
-                          Jane Roe, <span class="text-zigzag">Los Angeles</span>
-                        </span>
-                      </footer>
-                    </blockquote>
-                  </div>
-
-                </div>
-              </div>
-
-            </div> <!-- / .testimonials-slider -->
-
-          </div>
-        </div> <!-- / .row -->
-      </div> <!-- / .container -->
-
-    </section>
-
-    <!-- NEWS
+    <!-- GALLERY
     ================================================== -->
     <section class="section bg-light">
 
       <!-- Line -->
       <div class="line line-top"></div>
 
-      <!-- Triangles -->
-      <div class="bg-triangle bg-triangle-dark bg-triangle-top bg-triangle-left"></div>
-      <div class="bg-triangle bg-triangle-dark bg-triangle-bottom bg-triangle-right"></div>
-      
       <!-- Content -->
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-8 col-lg-6">
-            
+
             <!-- Heading -->
-            <h2 class="mb-4 text-center">
-              Latest news & events
+            <h2 class="text-center mb-4">
+              Inside the house
             </h2>
 
             <!-- Subheading -->
             <p class="text-center text-muted mb-5">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam illo ut repellat tempora sequi vitae provident optio pariatur. 
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo officiis odio repudiandae illum molestiae.
             </p>
 
           </div>
         </div> <!-- / .row -->
         <div class="row">
-          <div class="col-md-4">
+          <div class="col">
             
-            <!-- Card -->
-            <div class="card border-0 mb-3 mb-md-0">
-
-              <!-- Image -->
-              <img src="assets/img/78.jpg" class="card-img-top" alt="...">
-
-              <!-- Body -->
-              <div class="card-body">
-
-                <!-- Title -->
-                <h4 class="card-title">
-                  Guide to the 2018 National “Best Pizzas” Lists
-                </h4>
-
-                <!-- Text -->
-                <p class="card-text text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, corporis.
-                </p>
-
-                <!-- Link -->
-                <a href="#!">
-                  Read more...
-                </a>
+            <!-- Slider -->
+            <div class="slider slider-no-controls mb-3" data-bind="slider" data-target="#sliderGallerySmall" id="sliderGalleryLarge">
+              <div class="slider-item">
                 
+                <!-- Image -->
+                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+
               </div>
-
-            </div> <!-- / .card -->
-
-          </div>
-          <div class="col-md-4">
-            
-            <!-- Card -->
-            <div class="card border-0 mb-3 mb-md-0">
-
-              <!-- Image -->
-              <img src="assets/img/56.jpg" class="card-img-top" alt="...">
-
-              <!-- Body -->
-              <div class="card-body">
-
-                <!-- Title -->
-                <h4 class="card-title">
-                  We Give Thanks to Our People, Pizza People
-                </h4>
-
-                <!-- Text -->
-                <p class="card-text text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, corporis.
-                </p>
-
-                <!-- Link -->
-                <a href="#!">
-                  Read more...
-                </a>
+              <div class="slider-item">
                 
+                <!-- Image -->
+                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+
               </div>
-
-            </div> <!-- / .card -->
-
-          </div>
-          <div class="col-md-4">
-            
-            <!-- Card -->
-            <div class="card border-0">
-
-              <!-- Image -->
-              <img src="assets/img/79.jpg" class="card-img-top" alt="...">
-
-              <!-- Body -->
-              <div class="card-body">
-
-                <!-- Title -->
-                <h4 class="card-title">
-                  Pizza Community Celebrates Small Business Saturday
-                </h4>
-
-                <!-- Text -->
-                <p class="card-text text-muted">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi culpa, corporis.
-                </p>
-
-                <!-- Link -->
-                <a href="#!">
-                  Read more...
-                </a>
+              <div class="slider-item">
                 
+                <!-- Image -->
+                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+
               </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
 
-            </div> <!-- / .card -->
+              </div>
+              <div class="slider-item">
+                
+                <!-- Image -->
+                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
 
+              </div>
+            </div> <!-- / .slider -->
+    
           </div>
         </div> <!-- / .row -->
+        <div class="row">
+          <div class="col">
+            
+            <!-- Slider -->
+            <div class="slider slider-highlight" data-bind="slider" data-target="#sliderGalleryLarge" id="sliderGallerySmall">
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/28.jpg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/29.jpg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/30.jpg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/31.jpg" alt="..." class="img-fluid">
+
+              </div>
+              <div class="slider-item col-6 col-md-3">
+                
+                <!-- Image -->
+                <img src="assets/img/27.jpg" alt="..." class="img-fluid">
+
+              </div>
+            </div> <!-- / .slider -->
+
+          </div>
+        </div>
       </div> <!-- / .container -->
 
     </section>
+
+    {{--Fim da parte contendo a galeria--}}
 
     <!-- MAP
     ================================================== -->
